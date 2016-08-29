@@ -1,2 +1,3 @@
 # redux-source-annotation
-redux源码分析
+
+redux相关源码解读, 查看 src/* 下面相关文件里的代码注释
